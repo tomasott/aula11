@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+
+.linha1{
+    display: flex;
+}
+.card1{
+    background-color: chartreuse;
+    width: 150px;
+    height: 100px;
+    margin-left: auto;
+
+}
+.card2{
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+
+    margin-right: auto;
+}
+
+
+.linha2{
+    display: flex;
+}
+
+.card3{
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    margin-left: auto;
+
+}
+.card4{
+    background-color:hotpink;
+    width: 150px;
+    height: 100px;
+    margin-right: auto; 
+}
+
+.linha3{
+    display: flex;
+}
+
+
+.card5{
+    background-color: gold;
+    width: 150px;
+    height: 100px;
+    margin-left: auto;
+}
+.card6{
+    background-color:darkmagenta;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+}
